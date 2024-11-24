@@ -1,0 +1,25 @@
+{
+    "type": "grid",
+    "width": 3,
+    "height": 3,
+    "ingredients": {
+        "I": {
+            "type": "item",
+            "code": "iron-ingot"
+        },
+        "S": {
+            "type": "item",
+            "code": "steel-gear"
+        }
+    },
+    "pattern": [
+        " I ",
+        " S ",
+        " I "
+    ],
+    "output": {
+        "type": "item",
+        "code": "cartographercompass",
+        "quantity": 1
+    }
+}

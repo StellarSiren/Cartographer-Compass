@@ -1,0 +1,12 @@
+{
+    "modid": "cartographercompassmod",
+    "name": "Cartographer Compass Mod",
+    "version": "1.0.0",
+    "description": "Adds a Cartographer Compass for navigation between waypoints.",
+    "authors": ["Reiko"],
+    "requiredOnClient": true,
+    "requiredOnServer": true,
+    "dependencies": {
+        "game": "1.18.0"
+    }
+}

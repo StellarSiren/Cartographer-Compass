@@ -1,0 +1,7 @@
+{
+    "cartographercompassmod:togglecompassinterface": "Toggle Compass Interface",
+    "cartographercompassmod:compassinterface.title": "Compass Interface",
+    "cartographercompassmod:compassinterface.setwaypoint": "Set Waypoint",
+    "cartographercompassmod:compassinterface.setbutton": "Set",
+    "cartographercompassmod:compassinterface.waypointtext": "Waypoint Name"
+}
